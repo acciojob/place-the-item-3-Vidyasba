@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+.holder{
+ 	display:flex;
+	justify-content:space-evenly;
+	align-items:center; 
+	flex-wrap:wrap;
+}
+.items{
+	width:80px;
+	height:80px;
+	font-size:50px;
+	font-weight:500;
+	background-color:red;
+}
+.items2{
+	width:80px;
+	height:80px;
+	font-size:50px;
+	font-weight:500;
+	background-color:blue;
+}
+.items3{
+	width:80px;
+	height:80px;
+	font-size:50px;
+	font-weight:500;
+	background-color:green;
+}
